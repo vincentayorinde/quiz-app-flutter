@@ -1,6 +1,6 @@
 # quiz_app_flutter
 
-a basic flutter app with OOP implementation with asset management e.g. SVG.
+a basic flutter app with OOP implementation, asset management e.g. SVG and more.
 
 ## Getting Started
 
